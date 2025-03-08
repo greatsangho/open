@@ -2,7 +2,7 @@
 
 # 🚀 OpenColab
 
-OpenColab은 Google Colab에서 머신러닝 및 딥러닝 프로젝트를 쉽게 시작할 수 있도록 도와주는 리포지토리입니다.
+OpenColab은 Google Colab 환경에 가까운 환경을 로컬에 설치하여 머신러닝 및 딥러닝 프로젝트를 쉽게 시작할 수 있도록 도와주는 리포지토리입니다.
 
 ## 📋 주요 파일
 
@@ -38,20 +38,3 @@ OpenColab은 Google Colab에서 머신러닝 및 딥러닝 프로젝트를 쉽�
 - 🔥 PyTorch 텐서 연산 및 모델 생성
 - 📊 TensorFlow 데이터 처리 및 시각화
 - 🔄 모델 학습 및 평가 예제
-- 📝 상세한 주석으로 이해하기 쉬운 코드
-
-## 💡 팁
-
-- GPU 가속을 활용하려면: 메뉴에서 '런타임' > '런타임 유형 변경' > 'GPU' 선택
-- 모델 학습 시간을 단축하려면 작은 데이터셋으로 먼저 테스트하세요
-- TensorBoard를 사용하여 학습 과정을 시각화할 수 있습니다
-
-## 🤝 기여하기
-
-이슈 제출이나 풀 리퀘스트를 통해 이 프로젝트에 기여해주세요. 모든 아이디어와 개선사항을 환영합니다!
-
-## 📚 참고 자료
-
-- [PyTorch 공식 문서](https://pytorch.org/docs/stable/index.html)
-- [TensorFlow 공식 문서](https://www.tensorflow.org/api_docs)
-- [Google Colab 가이드](https://colab.research.google.com/)
